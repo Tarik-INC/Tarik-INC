@@ -28,7 +28,7 @@ I'm a Web Developer and i like building solutions for real world problems
 ## Social medias
 You can find me on:
 
-<a href=https://account.xbox.com/en-us/profile?gamertag=Overl0rd8214" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xbox.svg" alt="overlord" width="26px"/></a>
+<a href="https://account.xbox.com/en-us/profile?gamertag=Overl0rd8214" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xbox.svg" alt="overlord" width="26px"/></a>
 
 <a href="https://www.linkedin.com/in/tarik-santiago-56381a124/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="overlord" width="26px"/></a>
 
